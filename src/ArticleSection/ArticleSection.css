@@ -1,0 +1,4 @@
+.article-section {
+    max-height: 700px;
+    overflow: auto;
+}
